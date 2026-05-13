@@ -1,4 +1,4 @@
-# Data-Bootcamp---Final-Project
+# Data-Bootcamp: Final-Project
 The Final Project for Data Bootcamp by Christina, Vidhi, and Kavya
 
 **Executive Summary**
